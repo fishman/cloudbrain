@@ -81,7 +81,7 @@ Start the demo UI:
 * `cd cloudbrain/demo_ui`
 * `npm install`
 * `bower install`
-* Start the REST API server `python cloudbrain/datastore/rest_api_server.py`
+* Start the REST API server `python cloudbrain/apiservice/rest_api_server.py`
 * Open `demo_ui/index.html` in your browser.
 
 ### [Optional] Generate binaries
